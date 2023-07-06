@@ -94,7 +94,7 @@ public class inatboxtvapkindir5_start_page extends AppCompatActivity  {
     @Override
     public void onBackPressed() {
         super.onBackPressed();
-        
+
         Intent intent=new Intent(inatboxtvapkindir5_start_page.this,inatboxtvapkindir5_Exit.class);
         startActivity(intent);
     }
