@@ -28,6 +28,7 @@ public class inatboxtvapkindir5_Thank_you extends AppCompatActivity {
     public String TAG = String.valueOf(getClass());
 
     public void onBackPressed() {
+        super.onBackPressed();
     }
 
     /* access modifiers changed from: protected */
