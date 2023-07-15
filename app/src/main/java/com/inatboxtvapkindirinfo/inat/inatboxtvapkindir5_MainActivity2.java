@@ -35,7 +35,7 @@ import java.util.List;
 public class inatboxtvapkindir5_MainActivity2 extends AppCompatActivity {
 
 
-    Button btn, btn1;
+    TextView btn, btn1;
 
     ImageView Q_1, Q_2;
     private com.facebook.ads.AdView bannerAdContainer;
